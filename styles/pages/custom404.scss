@@ -1,0 +1,12 @@
+.custom404 {
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .error_number {
+        margin-right: 30px;
+        padding-right: 30px;
+        border-right: 1px solid black;
+    }
+}
