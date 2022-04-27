@@ -9,49 +9,49 @@ class MyDocument extends Document {
 
                     <meta
                         name="description"
-                        content="This is the matrimonial portfolio for Harsh Patel | Coderc. It has all the details regarding matrimony for Harsh Patel. Any person can find the required details from this website and can contact me."
+                        content="This is the matrimonial portfolio for Harrsh Patel. It has all the details regarding matrimony for Harrsh Patel. Any person can find the required details from this website and can contact me."
                     />
-                    <meta name="author" content="Harsh Patel" />
-                    <meta name="copyright" content="Harsh Patel" />
+                    <meta name="author" content="Harrsh Patel" />
+                    <meta name="copyright" content="Harrsh Patel" />
 
                     <meta property="og:type" content="website" />
                     <meta property="og:site_name" content="Portfolio" />
                     <meta
                         property="og:title"
-                        content="Harsh Patel | Coderc"
+                        content="Harrsh Patel"
                         key="ogtitle"
                     />
                     <meta
                         property="og:description"
-                        content="This is the matrimonial portfolio for Harsh Patel | Coderc. It has all the details regarding matrimony for Harsh Patel. Any person can find the required details from this website and can contact me."
+                        content="This is the matrimonial portfolio for Harrsh Patel. It has all the details regarding matrimony for Harrsh Patel. Any person can find the required details from this website and can contact me."
                         key="ogdesc"
                     />
-                    <meta property="og:url" content="https://me.coderc.in" />
+                    <meta property="og:url" content="https://harrsh.com" />
                     <meta
                         property="og:image"
-                        content="https://ik.imagekit.io/coderc/harsh_profile_photo_UpOsxvNv0.png"
+                        content="https://ik.imagekit.io/harrsh/Harrsh.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1651077804202"
                     />
 
                     <meta
                         name="twitter:card"
                         content="Matrimonial portfolio website"
                     />
-                    <meta name="twitter:title" content="Harsh Patel | Coderc" />
+                    <meta name="twitter:title" content="Harrsh Patel" />
                     <meta
                         name="twitter:description"
-                        content="This is the matrimonial portfolio for Harsh Patel | Coderc. It has all the details regarding matrimony for Harsh Patel. Any person can find the required details from this website and can contact me."
+                        content="This is the matrimonial portfolio for Harrsh Patel. It has all the details regarding matrimony for Harrsh Patel. Any person can find the required details from this website and can contact me."
                     />
                     <meta
                         name="twitter:image"
-                        content="https://ik.imagekit.io/coderc/harsh_profile_photo_UpOsxvNv0.png"
+                        content="https://ik.imagekit.io/harrsh/Harrsh.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1651077804202"
                     />
-                    <meta name="twitter:site" content="@harsh_coderc" />
+                    <meta name="twitter:site" content="@harrsh2124" />
 
                     <meta
                         name="keywords"
-                        content="harsh, Harsh, patel, Patel, coderc, Coderc, website, matrimonial, marriage, business, engineer"
+                        content="harrsh, Harrsh, patel, Patel, website, matrimonial, marriage, business, engineer"
                     />
-                    <link rel="canonical" href="http://www.coderc.in/" />
+                    <link rel="canonical" href="http://www.harrsh.com/" />
 
                     <link
                         href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"

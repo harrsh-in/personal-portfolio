@@ -6,7 +6,7 @@ const Home = () => {
     return (
         <div className="home__container">
             <Head>
-                <title>Harsh Patel | Coderc</title>
+                <title>Harrsh Patel</title>
 
                 <meta charSet="utf-8" />
                 <meta

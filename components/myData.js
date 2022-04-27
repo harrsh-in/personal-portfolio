@@ -8,8 +8,8 @@ const yearDifference = () => {
 
 export const myData = {
     my_image:
-        "https://ik.imagekit.io/coderc/harsh_profile_photo_UpOsxvNv0.png?tr=w-1080,h-1080",
-    name: "Harsh Patel",
+        "https://ik.imagekit.io/harrsh/Harrsh.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1651077804202?tr=w-1080,h-1080",
+    name: "Harrsh Patel",
     current_position: "Software Engineer",
     about: {
         age: yearDifference(),
@@ -18,8 +18,8 @@ export const myData = {
         height: "5'8\"",
         religion: "Hindu",
         motherTongue: "Gujarati",
-        annualIncome: "Rs. 2 - 3 Lakhs per Annum",
-        familyIncome: "Rs. 9 - 10 Lakhs per Annum",
+        annualIncome: "Rs. 5 - 6 Lakhs per Annum",
+        familyIncome: "Rs. 12 - 13 Lakhs per Annum",
         location: "Ahmedabad",
         motherCaste: "Mother - Vaishnav Vania",
         fatherCaste: "Father - Kadva Patel",
@@ -36,20 +36,13 @@ export const myData = {
         blogLink: "harsh2124.wordpress.com",
         familyDescription:
             "My dad is a wood trader and mom is a home-maker. I am a single child.",
-        educationDescription:
-            "I had done B.Tech in Computer Engineering and currently perusing MBA in Finance.",
+        educationDescription: "I had done B.Tech in Computer Engineering.",
         occupationDescription:
-            "I am a Software Developer working as a full-time Web developer in a MNC in Ahmedabad.",
+            "I am a Software Developer working as a full-time Web developer in Ahmedabad.",
     },
     education: [
         {
             id: 0,
-            duration: "2020 - Present",
-            field: "MBA in Finance",
-            university: "Gujarat Technological University",
-        },
-        {
-            id: 1,
             duration: "2016 - 2020",
             field: "B.Tech in Computer Engineering",
             university: "Gujarat Technological University",
@@ -58,18 +51,24 @@ export const myData = {
     job: [
         {
             id: 0,
-            duration: "2021 - Present",
+            duration: "2022 - Present",
             position: "Web Developer",
             city: "Ahmedabad",
         },
         {
             id: 1,
-            duration: "2020 - 2021",
+            duration: "2021 - 2022",
             position: "Web Developer",
             city: "Ahmedabad",
         },
         {
             id: 2,
+            duration: "2020 - 2021",
+            position: "Web Developer",
+            city: "Ahmedabad",
+        },
+        {
+            id: 3,
             duration: "2019 - 2020",
             position: "Python Developer (Internship)",
             city: "Ahmedabad",
@@ -182,7 +181,7 @@ export const myData = {
         sunSign: "Cancer",
     },
     partnerPreferences: {
-        age: "18 to 23",
+        age: `${yearDifference() - 3} to ${yearDifference()}`,
         height: "5'0\" to 5'8\"",
         religion: "Hindu",
         community: [
@@ -223,13 +222,17 @@ export const myData = {
                 id: 1,
                 data: "Vegan",
             },
+            {
+                id: 2,
+                data: "Jain",
+            },
         ],
     },
     contactDetails: {
         phone_one: 9099976321,
         phone_two: 9773195484,
         whatsApp: 9099976321,
-        email_one: "harshp2482@gmail.com",
-        email_two: "dev@coderc.in",
+        email_one: "me.harrsh.patel@gmail.com",
+        email_two: "me@harrsh.com",
     },
 };

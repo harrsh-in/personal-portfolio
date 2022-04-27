@@ -10,7 +10,7 @@ const MyPhoto = ({ myPhotoURL }) => {
             <Image
                 loader={myLoader}
                 src={myPhotoURL}
-                alt="Harsh Patel"
+                alt="Harrsh Patel"
                 placeholder="blur"
                 blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
                 height="150"
