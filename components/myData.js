@@ -18,7 +18,7 @@ export const myData = {
         height: "5'8\"",
         religion: "Hindu",
         motherTongue: "Gujarati",
-        annualIncome: "Rs. 5 - 6 Lakhs per Annum",
+        annualIncome: "Rs. 6 - 7 Lakhs per Annum",
         familyIncome: "Rs. 12 - 13 Lakhs per Annum",
         location: "Ahmedabad",
         motherCaste: "Mother - Vaishnav Vania",
@@ -51,24 +51,12 @@ export const myData = {
     job: [
         {
             id: 0,
-            duration: "2022 - Present",
+            duration: "2020 - Present",
             position: "Web Developer",
             city: "Ahmedabad",
         },
         {
             id: 1,
-            duration: "2021 - 2022",
-            position: "Web Developer",
-            city: "Ahmedabad",
-        },
-        {
-            id: 2,
-            duration: "2020 - 2021",
-            position: "Web Developer",
-            city: "Ahmedabad",
-        },
-        {
-            id: 3,
             duration: "2019 - 2020",
             position: "Python Developer (Internship)",
             city: "Ahmedabad",
