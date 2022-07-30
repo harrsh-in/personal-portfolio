@@ -9,7 +9,7 @@ import LifestyleSection from "./lifestyleSection";
 import MyInfo from "./myInfo";
 import MyLikesSection from "./myLikesSection";
 import MyPhoto from "./myPhoto";
-import PartnerPreferencesSection from "./partnerPreferencesSection";
+// import PartnerPreferencesSection from "./partnerPreferencesSection";
 
 const HomeComponent = ({ myData }) => {
     return (
@@ -34,7 +34,7 @@ const HomeComponent = ({ myData }) => {
 
             <HoroscopeSection data={myData.horoscopeDetails} />
 
-            <PartnerPreferencesSection data={myData.partnerPreferences} />
+            {/* <PartnerPreferencesSection data={myData.partnerPreferences} /> */}
 
             <ContactDetailsSection data={myData.contactDetails} />
         </Fragment>
