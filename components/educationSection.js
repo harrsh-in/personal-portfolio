@@ -1,7 +1,7 @@
 const EducationSection = ({ data }) => {
     return (
         <div className="main_section__container">
-            <h4>My Education</h4>
+            <h4>My education</h4>
 
             <div className="content__container">
                 {data.map((education) => {

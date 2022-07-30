@@ -9,17 +9,18 @@ const yearDifference = () => {
 export const myData = {
     my_image:
         "https://ik.imagekit.io/harrsh/Harrsh.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1651077804202?tr=w-1080,h-1080",
-    name: "Harrsh Patel",
-    current_position: "Software Engineer",
+    name: "Harsh Patel",
+    current_position: "Senior Software Engineer",
     about: {
         age: yearDifference(),
         dob: "21 Dec 1998",
-        maritalStatus: "Never Married",
+        maritalStatus: "Never married",
         height: "5'8\"",
+        weight: "75 kgs",
         religion: "Hindu",
         motherTongue: "Gujarati",
-        annualIncome: "Rs. 6 - 7 Lakhs per Annum",
-        familyIncome: "Rs. 12 - 13 Lakhs per Annum",
+        annualIncome: "Rs. 6 - 7 lakhs per annum",
+        familyIncome: "Rs. 12 - 13 lakhs per annum",
         location: "Ahmedabad",
         motherCaste: "Mother - Vaishnav Vania",
         fatherCaste: "Father - Kadva Patel",
@@ -64,18 +65,20 @@ export const myData = {
     ],
     family: {
         motherOccupation: "Housewife",
+        motherContact: 9638668120,
         fatherOccupation: "Businessman (Wood Trader)",
+        fatherContact: 9825038120,
         sister: 0,
         brother: 0,
-        familyStatus: "Middle Class",
-        familyType: "Nuclear Family",
+        familyStatus: "Middle class",
+        familyType: "Nuclear family",
         familyValues: "Liberal",
     },
     lifestyle: {
         habits: {
-            food: "Pure Vegetarian",
-            drink: "Non Alcoholic",
-            smoke: "Non Smoker",
+            food: "Pure vegetarian",
+            drink: "Non alcoholic",
+            smoke: "Non smoker",
         },
         assets: {
             house: "Yes",
@@ -115,7 +118,7 @@ export const myData = {
             },
             {
                 id: 3,
-                data: "Solving Crosswords",
+                data: "Solving crosswords",
             },
             {
                 id: 4,

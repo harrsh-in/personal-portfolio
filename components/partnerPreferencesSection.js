@@ -1,7 +1,7 @@
 const PartnerPreferencesSection = ({ data }) => {
     return (
         <div className="main_section__container">
-            <h4>Partner Preferences</h4>
+            <h4>Partner preferences</h4>
 
             <div className="content__container">
                 <div className="section">

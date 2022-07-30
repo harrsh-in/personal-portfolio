@@ -1,7 +1,7 @@
 const AboutSection = ({ data }) => {
     return (
         <div className="main_section__container">
-            <h4>About Me</h4>
+            <h4>About me</h4>
 
             <div className="content__container">
                 <div className="section">
@@ -10,12 +10,12 @@ const AboutSection = ({ data }) => {
                 </div>
 
                 <div className="section">
-                    <div className="title">Date of Birth</div>
+                    <div className="title">Date of birth</div>
                     <div className="data">{data.dob}</div>
                 </div>
 
                 <div className="section">
-                    <div className="title">Marital Status</div>
+                    <div className="title">Marital status</div>
                     <div className="data">{data.maritalStatus}</div>
                 </div>
 
@@ -25,22 +25,27 @@ const AboutSection = ({ data }) => {
                 </div>
 
                 <div className="section">
+                    <div className="title">Weight</div>
+                    <div className="data">{data.weight}</div>
+                </div>
+
+                <div className="section">
                     <div className="title">Religion</div>
                     <div className="data">{data.religion}</div>
                 </div>
 
                 <div className="section">
-                    <div className="title">Mother Tongue</div>
+                    <div className="title">Mother tongue</div>
                     <div className="data">{data.motherTongue}</div>
                 </div>
 
                 <div className="section">
-                    <div className="title">Annual Income</div>
+                    <div className="title">Annual income</div>
                     <div className="data">{data.annualIncome}</div>
                 </div>
 
                 <div className="section">
-                    <div className="title">Family Income</div>
+                    <div className="title">Family income</div>
                     <div className="data">{data.familyIncome}</div>
                 </div>
 
@@ -69,7 +74,7 @@ const AboutSection = ({ data }) => {
                 </div>
 
                 <div className="section">
-                    <div className="title">Family Description</div>
+                    <div className="title">Family description</div>
                     <div className="data">{data.familyDescription}</div>
                 </div>
 
@@ -87,12 +92,12 @@ const AboutSection = ({ data }) => {
                 </div>
 
                 <div className="section">
-                    <div className="title">Education Description</div>
+                    <div className="title">Education description</div>
                     <div className="data">{data.educationDescription}</div>
                 </div>
 
                 <div className="section">
-                    <div className="title">Occupation Description</div>
+                    <div className="title">Occupation description</div>
                     <div className="data">{data.occupationDescription}</div>
                 </div>
             </div>

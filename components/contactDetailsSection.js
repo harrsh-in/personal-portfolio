@@ -1,7 +1,7 @@
 const ContactDetailsSection = ({ data }) => {
     return (
         <div className="main_section__container">
-            <h4>Contact Details</h4>
+            <h4>Contact details</h4>
 
             <div className="content__container">
                 <div className="section">

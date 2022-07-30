@@ -1,7 +1,7 @@
 const MyLikesSection = ({ data }) => {
     return (
         <div className="main_section__container">
-            <h4>My Likes</h4>
+            <h4>My likes</h4>
 
             <div className="content__container">
                 <div className="section">
