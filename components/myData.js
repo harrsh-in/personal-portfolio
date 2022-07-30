@@ -64,8 +64,10 @@ export const myData = {
         },
     ],
     family: {
+        motherName: "Meetaben Patel",
         motherOccupation: "Housewife",
         motherContact: 9638668120,
+        fatherName: "Haribhai Patel",
         fatherOccupation: "Businessman (Wood Trader)",
         fatherContact: 9825038120,
         sister: 0,

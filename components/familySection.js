@@ -5,6 +5,11 @@ const FamilySection = ({ data }) => {
 
             <div className="content__container">
                 <div className="section">
+                    <div className="title">Mother&#39;s name</div>
+                    <div className="data">{data.motherName}</div>
+                </div>
+
+                <div className="section">
                     <div className="title">Mother&#39;s occupation</div>
                     <div className="data">{data.motherOccupation}</div>
                 </div>
@@ -14,6 +19,11 @@ const FamilySection = ({ data }) => {
                     <a href={`tel:${data.motherContact}`}>
                         {data.motherContact}
                     </a>
+                </div>
+
+                <div className="section">
+                    <div className="title">Father&#39;s name</div>
+                    <div className="data">{data.fatherName}</div>
                 </div>
 
                 <div className="section">
