@@ -78,18 +78,7 @@ const AboutSection = ({ data }) => {
                     <div className="data">{data.familyDescription}</div>
                 </div>
 
-                <div className="section">
-                    <div className="data">
-                        I write blogs at{" "}
-                        <a
-                            href={`https://${data.blogLink}`}
-                            target="_blank"
-                            rel="noreferrer"
-                        >
-                            {data.blogLink}
-                        </a>
-                    </div>
-                </div>
+                
 
                 <div className="section">
                     <div className="title">Education description</div>
