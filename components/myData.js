@@ -107,25 +107,13 @@ export const myData = {
     myLikes: {
         hobbies: [
             {
-                id: 0,
-                data: "Bird watching",
-            },
-            {
                 id: 1,
                 data: "Cooking",
             },
             {
                 id: 2,
                 data: "Photography",
-            },
-            {
-                id: 3,
-                data: "Solving crosswords",
-            },
-            {
-                id: 4,
-                data: "Puzzles",
-            },
+            }
         ],
         interests: [
             {
@@ -146,22 +134,18 @@ export const myData = {
             },
             {
                 id: 4,
-                data: "Sports - Outdoor",
+                data: "Sports",
             },
             {
                 id: 5,
-                data: "Sports - Indoor",
-            },
-            {
-                id: 6,
                 data: "Video / Computer games",
             },
             {
-                id: 7,
+                id: 6,
                 data: "Yoga / Meditation",
             },
             {
-                id: 8,
+                id: 7,
                 data: "Blogging",
             },
         ],
