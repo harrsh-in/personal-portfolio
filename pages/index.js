@@ -1,6 +1,5 @@
 import HomeComponent from "../components";
 import Head from "next/head";
-import { myData as JSONData } from "../components/myData";
 
 const Home = () => {
     return (
@@ -15,7 +14,7 @@ const Home = () => {
                 />
             </Head>
 
-            <HomeComponent myData={JSONData} />
+            <HomeComponent />
         </div>
     );
 };
