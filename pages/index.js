@@ -5,7 +5,7 @@ const Home = () => {
     return (
         <div className="home__container">
             <Head>
-                <title>Harrsh Patel</title>
+                <title>Harsh Patel</title>
 
                 <meta charSet="utf-8" />
                 <meta
